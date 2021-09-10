@@ -1,0 +1,11 @@
+C:\Users\EQUIPO\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DancaStore.csprojAssemblyReference.cache
+C:\Users\EQUIPO\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Indexlogin.resources
+C:\Users\EQUIPO\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\EQUIPO\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Register.resources
+C:\Users\EQUIPO\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DancaStore.csproj.GenerateResource.cache
+C:\Users\EQUIPO\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DancaStore.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\EQUIPO\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\EQUIPO\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\EQUIPO\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\EQUIPO\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
