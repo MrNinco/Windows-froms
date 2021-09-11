@@ -9,3 +9,14 @@ C:\Users\EQUIPO\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Windows
 C:\Users\EQUIPO\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
 C:\Users\EQUIPO\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
 C:\Users\EQUIPO\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\cgali\source\repos\Windows_forms\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\cgali\source\repos\Windows_forms\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\cgali\source\repos\Windows_forms\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\cgali\source\repos\Windows_forms\WindowsFormsApp1\obj\Debug\DancaStore.csprojAssemblyReference.cache
+C:\Users\cgali\source\repos\Windows_forms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Indexlogin.resources
+C:\Users\cgali\source\repos\Windows_forms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\cgali\source\repos\Windows_forms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Register.resources
+C:\Users\cgali\source\repos\Windows_forms\WindowsFormsApp1\obj\Debug\DancaStore.csproj.GenerateResource.cache
+C:\Users\cgali\source\repos\Windows_forms\WindowsFormsApp1\obj\Debug\DancaStore.csproj.CoreCompileInputs.cache
+C:\Users\cgali\source\repos\Windows_forms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\cgali\source\repos\Windows_forms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

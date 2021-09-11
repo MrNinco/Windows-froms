@@ -22,5 +22,21 @@ namespace WindowsFormsApp1
             Register FR = new Register();
             FR.Show();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if(UserDAL.AuthenticationLogin(email.Text, password.Text) > 0)
+            {
+                this.Hide();
+
+                Indexlogin IL = new Indexlogin();
+
+                IL.ShowDialog();
+            }
+            else
+            {
+                MessageBox.Show("Compruebe sus datos");
+            }
+        }
     }
 }

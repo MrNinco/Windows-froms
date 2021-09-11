@@ -19,5 +19,20 @@ namespace WindowsFormsApp1
             }
             return result;
         }
+
+        public static int AuthenticationLogin (string pEmail, string pContrasena)
+        {
+            int result = 0;
+            SqlConnection db = database.getconnection();
+            SqlCommand command = new SqlCommand(string.Format("select * from user_ where email = '{0}' and HashBytes('MD5','{1}') = password", pEmail, pContrasena), db);
+            SqlDataReader reader = command.ExecuteReader();
+            while (reader.Read())
+            {
+                result = 50;
+            }
+
+            db.Close();
+            return result;
+        }
     }
 }
